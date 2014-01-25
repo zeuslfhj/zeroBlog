@@ -1,1 +1,5 @@
 baseurl: /zeroBlog
+paginate: 10
+name: Zero Site
+markdown: redcarpet
+pygments: true
