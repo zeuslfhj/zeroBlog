@@ -1,0 +1,6 @@
+---
+title: 'Backbone'
+layout: default
+---
+Marionette使Backbone在view与control层上的扩展
+利用Backbone的特性，完成VC的设计，M层由Backbone可以产生很好打管理
