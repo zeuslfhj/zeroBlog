@@ -1,3 +1,8 @@
+---
+title: 'Patterns and Anti-Patterns for Scalable and Available Cloud Architectures'
+layout: default
+---
+
 More than anything else, architectural choices matter when designing a system with high scalability and availability. Using Azure customers as an example, Microsoft talks about the patterns and anti-patterns they see with their Azure customers and how it affects the four facets of system architecture:
 
 
