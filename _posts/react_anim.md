@@ -368,7 +368,7 @@ updatePicture(rectRef.current);
 
 逻辑调整的部分不多，只是将`state`的属性通过`ref`来进行存储部分，这样我们已经可以减少掉很多多余的操作了，我们拿上面的图与下面这张来对比下就很明显了
 
-![good practice flame chart](./react_update_flame.png)
+![good practice flame chart](./konva_update_flame.png)
 
 下面是改造后的完整代码
 
